@@ -3,11 +3,11 @@ import numpy as np
 
 #here we take 5 product sample 
 sales_data = np.array([
-    [5 ,8 ,6 ,7 ,9 ,5, 4 ],
-    [2 ,3 ,4 ,2 ,1 ,3 ,5],
-    [10 ,12 ,10 ,11 ,9 ,12 ,13],
-    [1, 2, 1, 2, 3, 2, 1],
-    [7, 6, 8, 9, 10, 7, 6]
+    [5 ,8 ,6 ,7 ,9 ,5, 4 ], #product1
+    [2 ,3 ,4 ,2 ,1 ,3 ,5],  #product2
+    [10 ,12 ,10 ,11 ,9 ,12 ,13], #product3
+    [1, 2, 1, 2, 3, 2, 1], #product4
+    [7, 6, 8, 9, 10, 7, 6]  #product5
 ])
 
 #total sales of each product
