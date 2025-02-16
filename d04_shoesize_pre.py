@@ -4,7 +4,7 @@
 import numpy as np
 
 #here generating random shoe sizes for 50 customers (sizes between 36-45)
-np.random.seed(42)  # Ensures consistent results
+np.random.seed(50)  # Ensures consistent results
 shoe_sizes = np.random.randint(36, 46, size=50)
 
 print("Customer Shoe Sizes:", shoe_sizes)#print the shoe size of each customer
