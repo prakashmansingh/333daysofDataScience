@@ -1,0 +1,501 @@
+Date,Product,Sales,Category
+22/11/2023,Loafers,74,Sports
+08/08/2023,Loafers,65,Casual
+08/07/2023,Casual Sneakers,13,Casual
+19/03/2023,Loafers,187,Casual
+06/06/2023,Casual Sneakers,98,Casual
+15/05/2023,Casual Sneakers,156,Formal
+25/11/2023,Running Shoes,129,Sports
+22/01/2023,Running Shoes,194,Casual
+11/11/2023,Formal Shoes,133,Casual
+05/01/2023,Formal Shoes,147,Casual
+03/12/2023,Formal Shoes,50,Casual
+01/07/2023,Casual Sneakers,177,Formal
+12/06/2023,Sandals,170,Formal
+07/04/2023,Loafers,52,Sports
+31/03/2023,Casual Sneakers,60,Sports
+12/04/2023,Loafers,10,Formal
+01/09/2023,Loafers,30,Formal
+07/12/2023,Sandals,169,Sports
+20/10/2023,Loafers,165,Casual
+05/01/2023,Formal Shoes,111,Casual
+07/10/2023,Sandals,35,Casual
+18/05/2023,Sandals,88,Casual
+15/07/2023,Loafers,18,Casual
+29/11/2023,Casual Sneakers,103,Formal
+19/06/2023,Loafers,194,Formal
+06/05/2023,Loafers,61,Casual
+16/12/2023,Sandals,45,Formal
+22/11/2023,Loafers,189,Casual
+20/05/2023,Sandals,128,Formal
+07/08/2023,Formal Shoes,179,Sports
+10/10/2023,Formal Shoes,171,Casual
+28/06/2023,Formal Shoes,144,Sports
+09/07/2023,Loafers,52,Formal
+09/08/2023,Casual Sneakers,71,Sports
+24/10/2023,Loafers,47,Casual
+14/06/2023,Loafers,79,Casual
+06/10/2023,Loafers,50,Sports
+28/07/2023,Running Shoes,15,Formal
+03/09/2023,Sandals,16,Casual
+17/02/2023,Casual Sneakers,144,Casual
+30/06/2023,Formal Shoes,17,Casual
+15/09/2023,Formal Shoes,92,Casual
+05/03/2023,Casual Sneakers,101,Casual
+15/01/2023,Sandals,46,Sports
+04/04/2023,Sandals,185,Casual
+22/11/2023,Formal Shoes,112,Casual
+27/09/2023,Casual Sneakers,85,Casual
+30/03/2023,Formal Shoes,39,Formal
+23/11/2023,Running Shoes,141,Casual
+06/08/2023,Sandals,123,Sports
+14/08/2023,Running Shoes,11,Formal
+20/05/2023,Casual Sneakers,36,Casual
+13/08/2023,Sandals,76,Casual
+28/07/2023,Casual Sneakers,49,Casual
+04/01/2023,Loafers,122,Formal
+27/05/2023,Formal Shoes,200,Casual
+26/09/2023,Casual Sneakers,119,Casual
+15/08/2023,Formal Shoes,61,Casual
+27/10/2023,Loafers,20,Casual
+11/09/2023,Formal Shoes,86,Casual
+14/11/2023,Formal Shoes,41,Sports
+11/11/2023,Casual Sneakers,181,Casual
+02/10/2023,Formal Shoes,49,Formal
+21/08/2023,Sandals,106,Formal
+15/07/2023,Casual Sneakers,185,Casual
+03/11/2023,Running Shoes,102,Casual
+13/12/2023,Loafers,148,Formal
+25/01/2023,Sandals,88,Formal
+22/09/2023,Formal Shoes,74,Sports
+01/01/2023,Running Shoes,126,Casual
+16/04/2023,Running Shoes,39,Sports
+16/07/2023,Casual Sneakers,84,Sports
+07/07/2023,Loafers,102,Casual
+31/08/2023,Casual Sneakers,115,Sports
+04/08/2023,Casual Sneakers,180,Formal
+31/08/2023,Formal Shoes,29,Casual
+01/02/2023,Casual Sneakers,174,Casual
+10/10/2023,Loafers,165,Sports
+17/07/2023,Running Shoes,68,Casual
+05/07/2023,Loafers,191,Casual
+05/01/2023,Running Shoes,99,Casual
+09/07/2023,Casual Sneakers,50,Sports
+21/03/2023,Formal Shoes,161,Casual
+23/07/2023,Sandals,194,Sports
+10/06/2023,Formal Shoes,103,Casual
+31/05/2023,Running Shoes,112,Casual
+20/04/2023,Formal Shoes,138,Sports
+05/03/2023,Formal Shoes,103,Sports
+12/03/2023,Casual Sneakers,136,Casual
+01/02/2023,Sandals,132,Casual
+02/08/2023,Running Shoes,154,Sports
+17/07/2023,Sandals,145,Formal
+18/04/2023,Running Shoes,35,Formal
+08/07/2023,Loafers,105,Sports
+23/12/2023,Sandals,193,Casual
+20/06/2023,Formal Shoes,107,Casual
+01/06/2023,Casual Sneakers,135,Casual
+15/07/2023,Formal Shoes,98,Formal
+28/02/2023,Sandals,81,Casual
+15/05/2023,Formal Shoes,117,Formal
+28/01/2023,Casual Sneakers,102,Casual
+12/12/2023,Formal Shoes,194,Formal
+22/12/2023,Loafers,199,Casual
+13/08/2023,Casual Sneakers,105,Casual
+13/12/2023,Casual Sneakers,170,Casual
+15/12/2023,Formal Shoes,91,Formal
+16/09/2023,Casual Sneakers,81,Casual
+13/09/2023,Casual Sneakers,36,Casual
+01/12/2023,Loafers,105,Casual
+24/05/2023,Formal Shoes,37,Sports
+26/02/2023,Sandals,23,Formal
+03/06/2023,Running Shoes,66,Formal
+20/09/2023,Sandals,118,Formal
+10/02/2023,Running Shoes,194,Sports
+18/04/2023,Running Shoes,34,Casual
+28/07/2023,Casual Sneakers,34,Casual
+24/04/2023,Formal Shoes,96,Sports
+29/07/2023,Casual Sneakers,186,Formal
+21/03/2023,Loafers,115,Formal
+12/11/2023,Sandals,84,Casual
+03/04/2023,Loafers,137,Casual
+17/08/2023,Loafers,12,Casual
+09/07/2023,Loafers,40,Casual
+04/10/2023,Casual Sneakers,92,Casual
+21/01/2023,Formal Shoes,14,Casual
+27/05/2023,Formal Shoes,31,Sports
+09/01/2023,Casual Sneakers,176,Formal
+29/12/2023,Sandals,165,Sports
+23/01/2023,Sandals,188,Casual
+02/06/2023,Loafers,152,Casual
+13/01/2023,Casual Sneakers,177,Formal
+13/02/2023,Casual Sneakers,85,Casual
+01/07/2023,Running Shoes,185,Casual
+11/10/2023,Formal Shoes,13,Sports
+04/06/2023,Running Shoes,192,Casual
+26/06/2023,Casual Sneakers,194,Sports
+03/01/2023,Casual Sneakers,20,Casual
+25/06/2023,Sandals,89,Casual
+31/01/2023,Casual Sneakers,189,Formal
+07/04/2023,Casual Sneakers,47,Casual
+18/11/2023,Formal Shoes,89,Casual
+31/10/2023,Sandals,116,Formal
+02/10/2023,Loafers,148,Casual
+03/06/2023,Formal Shoes,36,Casual
+13/07/2023,Sandals,15,Casual
+03/03/2023,Sandals,139,Sports
+26/06/2023,Loafers,168,Casual
+15/07/2023,Loafers,71,Sports
+30/11/2023,Sandals,86,Formal
+17/03/2023,Formal Shoes,108,Casual
+25/12/2023,Running Shoes,43,Casual
+13/07/2023,Running Shoes,141,Formal
+27/10/2023,Casual Sneakers,120,Casual
+09/05/2023,Loafers,190,Casual
+22/06/2023,Running Shoes,155,Sports
+02/01/2023,Formal Shoes,60,Casual
+13/05/2023,Loafers,189,Casual
+28/07/2023,Formal Shoes,199,Casual
+13/04/2023,Sandals,11,Casual
+01/07/2023,Loafers,28,Formal
+17/10/2023,Formal Shoes,77,Casual
+05/01/2023,Running Shoes,162,Casual
+25/01/2023,Running Shoes,13,Sports
+11/05/2023,Casual Sneakers,137,Casual
+29/05/2023,Casual Sneakers,55,Formal
+14/02/2023,Formal Shoes,78,Casual
+04/10/2023,Sandals,130,Casual
+13/04/2023,Casual Sneakers,157,Casual
+16/08/2023,Casual Sneakers,166,Casual
+21/05/2023,Running Shoes,107,Casual
+07/12/2023,Casual Sneakers,35,Casual
+07/11/2023,Running Shoes,165,Sports
+24/12/2023,Running Shoes,195,Casual
+20/09/2023,Sandals,160,Casual
+13/02/2023,Loafers,33,Casual
+28/05/2023,Loafers,161,Casual
+02/08/2023,Loafers,91,Casual
+05/10/2023,Casual Sneakers,20,Casual
+30/07/2023,Loafers,48,Casual
+24/05/2023,Formal Shoes,119,Sports
+02/09/2023,Casual Sneakers,166,Casual
+02/09/2023,Formal Shoes,198,Formal
+28/11/2023,Loafers,170,Casual
+03/08/2023,Sandals,47,Sports
+24/08/2023,Running Shoes,115,Casual
+30/08/2023,Formal Shoes,160,Sports
+02/04/2023,Sandals,191,Casual
+17/04/2023,Casual Sneakers,87,Casual
+09/11/2023,Formal Shoes,198,Casual
+30/04/2023,Casual Sneakers,87,Casual
+26/07/2023,Formal Shoes,135,Casual
+19/12/2023,Formal Shoes,41,Formal
+23/08/2023,Sandals,159,Casual
+20/09/2023,Sandals,147,Casual
+05/11/2023,Casual Sneakers,53,Formal
+05/11/2023,Loafers,147,Casual
+04/01/2023,Loafers,87,Casual
+18/08/2023,Formal Shoes,200,Casual
+21/09/2023,Running Shoes,194,Casual
+08/05/2023,Casual Sneakers,155,Sports
+19/11/2023,Sandals,38,Casual
+09/07/2023,Casual Sneakers,36,Formal
+25/04/2023,Casual Sneakers,114,Casual
+07/11/2023,Loafers,192,Casual
+22/02/2023,Sandals,122,Sports
+03/09/2023,Running Shoes,127,Sports
+29/04/2023,Sandals,72,Casual
+02/08/2023,Formal Shoes,181,Casual
+18/01/2023,Sandals,152,Casual
+27/01/2023,Loafers,59,Casual
+02/07/2023,Casual Sneakers,84,Sports
+04/04/2023,Sandals,117,Formal
+09/04/2023,Running Shoes,67,Casual
+10/05/2023,Casual Sneakers,148,Formal
+28/03/2023,Loafers,84,Casual
+14/01/2023,Running Shoes,43,Casual
+16/04/2023,Running Shoes,140,Formal
+30/07/2023,Formal Shoes,70,Casual
+25/12/2023,Formal Shoes,175,Casual
+27/10/2023,Sandals,52,Casual
+01/05/2023,Sandals,13,Casual
+10/12/2023,Sandals,145,Casual
+23/12/2023,Sandals,196,Casual
+23/02/2023,Running Shoes,193,Sports
+11/06/2023,Casual Sneakers,189,Casual
+10/10/2023,Running Shoes,114,Sports
+10/05/2023,Formal Shoes,199,Casual
+19/01/2023,Casual Sneakers,130,Casual
+31/05/2023,Loafers,150,Casual
+20/10/2023,Casual Sneakers,118,Casual
+18/12/2023,Formal Shoes,67,Casual
+13/01/2023,Sandals,177,Casual
+16/09/2023,Running Shoes,18,Casual
+27/10/2023,Loafers,48,Formal
+06/01/2023,Running Shoes,60,Casual
+08/02/2023,Running Shoes,119,Formal
+28/03/2023,Casual Sneakers,138,Formal
+07/05/2023,Casual Sneakers,98,Casual
+28/04/2023,Formal Shoes,43,Formal
+28/06/2023,Running Shoes,159,Casual
+23/10/2023,Casual Sneakers,141,Sports
+01/12/2023,Running Shoes,42,Casual
+16/03/2023,Loafers,157,Casual
+21/02/2023,Running Shoes,113,Casual
+13/10/2023,Sandals,135,Casual
+15/11/2023,Formal Shoes,104,Casual
+10/10/2023,Sandals,168,Sports
+16/05/2023,Loafers,17,Casual
+26/01/2023,Sandals,120,Casual
+02/12/2023,Sandals,15,Formal
+30/06/2023,Loafers,20,Sports
+22/03/2023,Sandals,84,Casual
+17/04/2023,Formal Shoes,175,Casual
+21/10/2023,Formal Shoes,134,Sports
+05/05/2023,Loafers,27,Casual
+28/07/2023,Formal Shoes,113,Formal
+05/02/2023,Running Shoes,187,Formal
+25/10/2023,Loafers,117,Sports
+19/09/2023,Sandals,178,Casual
+07/05/2023,Casual Sneakers,157,Casual
+25/08/2023,Running Shoes,109,Formal
+06/11/2023,Formal Shoes,62,Casual
+12/12/2023,Running Shoes,62,Casual
+24/04/2023,Sandals,164,Casual
+26/11/2023,Formal Shoes,46,Casual
+08/08/2023,Formal Shoes,98,Casual
+08/03/2023,Formal Shoes,19,Casual
+01/03/2023,Sandals,79,Casual
+14/11/2023,Running Shoes,157,Casual
+10/10/2023,Loafers,129,Casual
+21/12/2023,Formal Shoes,187,Casual
+27/08/2023,Running Shoes,49,Formal
+03/12/2023,Formal Shoes,97,Sports
+25/08/2023,Running Shoes,149,Sports
+03/05/2023,Casual Sneakers,62,Casual
+15/07/2023,Running Shoes,163,Casual
+14/08/2023,Formal Shoes,140,Sports
+16/03/2023,Formal Shoes,40,Casual
+21/07/2023,Loafers,68,Casual
+20/08/2023,Formal Shoes,142,Sports
+16/04/2023,Running Shoes,66,Casual
+16/08/2023,Running Shoes,88,Casual
+24/08/2023,Sandals,116,Casual
+22/07/2023,Casual Sneakers,186,Casual
+13/02/2023,Formal Shoes,17,Casual
+27/10/2023,Casual Sneakers,86,Sports
+05/03/2023,Casual Sneakers,99,Casual
+14/07/2023,Formal Shoes,81,Sports
+19/06/2023,Casual Sneakers,44,Casual
+06/06/2023,Sandals,58,Casual
+24/12/2023,Loafers,70,Casual
+07/06/2023,Casual Sneakers,146,Formal
+06/04/2023,Running Shoes,17,Casual
+09/09/2023,Sandals,187,Casual
+19/04/2023,Loafers,159,Sports
+11/05/2023,Running Shoes,114,Casual
+31/07/2023,Running Shoes,183,Casual
+06/02/2023,Casual Sneakers,71,Casual
+17/04/2023,Casual Sneakers,164,Formal
+07/10/2023,Running Shoes,99,Casual
+11/04/2023,Formal Shoes,144,Casual
+23/09/2023,Loafers,44,Casual
+25/10/2023,Loafers,66,Casual
+16/03/2023,Running Shoes,190,Casual
+27/08/2023,Sandals,194,Casual
+22/02/2023,Loafers,48,Casual
+17/03/2023,Loafers,171,Casual
+09/08/2023,Formal Shoes,12,Casual
+26/11/2023,Formal Shoes,156,Casual
+24/10/2023,Casual Sneakers,100,Casual
+04/11/2023,Casual Sneakers,38,Formal
+19/01/2023,Loafers,147,Casual
+23/02/2023,Formal Shoes,132,Casual
+10/11/2023,Formal Shoes,141,Formal
+31/12/2023,Sandals,101,Sports
+14/06/2023,Loafers,172,Casual
+23/03/2023,Formal Shoes,15,Formal
+25/01/2023,Sandals,89,Sports
+16/07/2023,Sandals,167,Casual
+26/05/2023,Casual Sneakers,59,Casual
+03/10/2023,Loafers,46,Casual
+31/08/2023,Casual Sneakers,13,Formal
+17/01/2023,Casual Sneakers,65,Casual
+06/06/2023,Formal Shoes,186,Casual
+16/11/2023,Loafers,52,Casual
+28/09/2023,Loafers,153,Formal
+15/01/2023,Running Shoes,194,Formal
+15/11/2023,Casual Sneakers,183,Formal
+17/03/2023,Loafers,74,Formal
+23/01/2023,Formal Shoes,198,Casual
+02/08/2023,Running Shoes,79,Casual
+09/05/2023,Formal Shoes,132,Sports
+01/12/2023,Sandals,49,Casual
+03/08/2023,Loafers,47,Casual
+28/01/2023,Casual Sneakers,92,Sports
+05/09/2023,Running Shoes,18,Casual
+23/08/2023,Loafers,183,Formal
+18/01/2023,Casual Sneakers,14,Formal
+26/08/2023,Loafers,48,Sports
+21/10/2023,Loafers,180,Casual
+23/03/2023,Sandals,122,Casual
+27/12/2023,Casual Sneakers,15,Casual
+24/12/2023,Loafers,27,Sports
+15/09/2023,Loafers,171,Casual
+29/09/2023,Casual Sneakers,163,Sports
+02/01/2023,Loafers,143,Formal
+20/03/2023,Casual Sneakers,36,Casual
+24/06/2023,Casual Sneakers,122,Casual
+31/12/2023,Formal Shoes,24,Sports
+09/05/2023,Running Shoes,70,Casual
+08/08/2023,Casual Sneakers,56,Formal
+15/05/2023,Loafers,50,Casual
+02/10/2023,Running Shoes,74,Formal
+12/10/2023,Loafers,34,Formal
+03/08/2023,Loafers,95,Sports
+26/05/2023,Sandals,181,Formal
+29/03/2023,Running Shoes,122,Casual
+19/12/2023,Loafers,184,Casual
+24/12/2023,Running Shoes,32,Casual
+31/08/2023,Running Shoes,54,Sports
+14/02/2023,Sandals,30,Casual
+07/10/2023,Casual Sneakers,38,Casual
+25/01/2023,Formal Shoes,84,Casual
+28/02/2023,Sandals,199,Casual
+21/08/2023,Loafers,16,Casual
+20/05/2023,Casual Sneakers,24,Casual
+01/09/2023,Loafers,72,Sports
+02/07/2023,Casual Sneakers,104,Casual
+14/08/2023,Sandals,75,Casual
+06/01/2023,Formal Shoes,27,Sports
+28/04/2023,Formal Shoes,101,Sports
+01/01/2023,Formal Shoes,114,Casual
+19/09/2023,Running Shoes,110,Casual
+15/03/2023,Casual Sneakers,191,Casual
+18/07/2023,Running Shoes,154,Formal
+14/01/2023,Loafers,31,Sports
+16/06/2023,Loafers,155,Casual
+12/07/2023,Sandals,176,Casual
+25/11/2023,Loafers,47,Casual
+22/08/2023,Running Shoes,59,Casual
+06/12/2023,Running Shoes,163,Casual
+24/06/2023,Casual Sneakers,44,Casual
+17/02/2023,Sandals,34,Casual
+09/07/2023,Formal Shoes,155,Casual
+27/11/2023,Sandals,36,Formal
+07/07/2023,Loafers,118,Casual
+20/05/2023,Sandals,71,Casual
+01/06/2023,Sandals,198,Casual
+29/07/2023,Running Shoes,26,Sports
+10/01/2023,Formal Shoes,173,Casual
+10/03/2023,Casual Sneakers,69,Casual
+08/11/2023,Running Shoes,48,Sports
+12/05/2023,Formal Shoes,114,Casual
+04/05/2023,Formal Shoes,117,Casual
+15/06/2023,Casual Sneakers,108,Casual
+18/10/2023,Formal Shoes,30,Sports
+01/03/2023,Loafers,81,Sports
+09/11/2023,Sandals,126,Casual
+06/05/2023,Running Shoes,161,Sports
+08/07/2023,Casual Sneakers,163,Casual
+05/03/2023,Formal Shoes,49,Casual
+10/09/2023,Loafers,50,Casual
+04/02/2023,Loafers,50,Formal
+31/01/2023,Loafers,162,Sports
+24/07/2023,Running Shoes,99,Casual
+18/11/2023,Running Shoes,101,Casual
+21/01/2023,Loafers,186,Formal
+03/07/2023,Formal Shoes,164,Sports
+21/02/2023,Running Shoes,166,Casual
+18/03/2023,Formal Shoes,195,Casual
+29/04/2023,Formal Shoes,199,Casual
+15/10/2023,Loafers,44,Casual
+20/10/2023,Formal Shoes,156,Formal
+30/12/2023,Loafers,121,Casual
+02/09/2023,Running Shoes,98,Formal
+27/06/2023,Running Shoes,173,Casual
+21/10/2023,Sandals,163,Casual
+16/06/2023,Running Shoes,66,Formal
+26/09/2023,Running Shoes,192,Sports
+21/03/2023,Casual Sneakers,136,Formal
+14/04/2023,Formal Shoes,71,Casual
+25/03/2023,Casual Sneakers,28,Formal
+13/11/2023,Casual Sneakers,28,Formal
+23/07/2023,Running Shoes,105,Sports
+17/04/2023,Casual Sneakers,118,Sports
+14/11/2023,Loafers,164,Sports
+28/11/2023,Casual Sneakers,62,Sports
+17/09/2023,Sandals,185,Formal
+10/07/2023,Loafers,193,Sports
+04/08/2023,Running Shoes,11,Casual
+18/05/2023,Sandals,127,Sports
+31/07/2023,Running Shoes,71,Sports
+21/04/2023,Sandals,61,Casual
+08/06/2023,Running Shoes,83,Formal
+15/08/2023,Casual Sneakers,19,Casual
+23/08/2023,Sandals,41,Casual
+08/03/2023,Running Shoes,131,Casual
+31/05/2023,Loafers,143,Casual
+13/09/2023,Running Shoes,200,Casual
+10/02/2023,Running Shoes,179,Casual
+13/05/2023,Casual Sneakers,122,Sports
+24/03/2023,Casual Sneakers,18,Casual
+23/08/2023,Formal Shoes,76,Sports
+24/05/2023,Loafers,80,Casual
+23/09/2023,Casual Sneakers,143,Formal
+25/03/2023,Formal Shoes,76,Sports
+07/09/2023,Sandals,135,Casual
+26/05/2023,Loafers,94,Formal
+28/05/2023,Formal Shoes,157,Casual
+06/04/2023,Loafers,90,Formal
+20/02/2023,Running Shoes,18,Formal
+24/11/2023,Running Shoes,112,Formal
+13/12/2023,Formal Shoes,13,Formal
+10/01/2023,Loafers,65,Sports
+30/10/2023,Sandals,159,Casual
+15/04/2023,Loafers,156,Casual
+08/01/2023,Formal Shoes,68,Casual
+22/07/2023,Running Shoes,163,Sports
+27/08/2023,Sandals,157,Casual
+02/06/2023,Sandals,91,Sports
+25/05/2023,Running Shoes,192,Casual
+23/01/2023,Sandals,18,Casual
+22/11/2023,Casual Sneakers,44,Casual
+30/09/2023,Running Shoes,21,Sports
+13/10/2023,Running Shoes,109,Casual
+04/04/2023,Casual Sneakers,191,Casual
+10/12/2023,Sandals,194,Casual
+29/09/2023,Running Shoes,80,Formal
+23/03/2023,Formal Shoes,85,Sports
+14/08/2023,Sandals,103,Sports
+31/12/2023,Loafers,162,Casual
+12/06/2023,Loafers,108,Casual
+10/06/2023,Casual Sneakers,63,Casual
+30/05/2023,Sandals,11,Sports
+03/09/2023,Running Shoes,23,Casual
+21/02/2023,Casual Sneakers,143,Sports
+01/06/2023,Casual Sneakers,14,Casual
+11/03/2023,Loafers,176,Formal
+07/04/2023,Sandals,26,Formal
+20/12/2023,Formal Shoes,198,Casual
+18/02/2023,Formal Shoes,199,Casual
+30/08/2023,Loafers,198,Sports
+05/08/2023,Formal Shoes,110,Casual
+05/12/2023,Loafers,152,Sports
+21/03/2023,Sandals,168,Sports
+18/08/2023,Running Shoes,97,Sports
+11/03/2023,Casual Sneakers,26,Casual
+05/12/2023,Casual Sneakers,85,Casual
+16/11/2023,Sandals,36,Casual
+23/11/2023,Casual Sneakers,93,Sports
+29/04/2023,Casual Sneakers,158,Casual
+02/04/2023,Sandals,131,Casual
+03/10/2023,Loafers,24,Casual
+10/08/2023,Running Shoes,11,Casual
+24/05/2023,Loafers,95,Formal
+13/05/2023,Running Shoes,175,Sports
+04/12/2023,Loafers,121,Formal
+11/04/2023,Running Shoes,17,Casual
+23/12/2023,Running Shoes,59,Casual
+29/01/2023,Casual Sneakers,149,Casual
