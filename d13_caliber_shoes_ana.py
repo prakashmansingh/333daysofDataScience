@@ -39,5 +39,4 @@ plt.title("Seasonal Demand Pattern of Caliber Shoes")
 plt.xticks(np.arange(1, 13, 1), labels=["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"])
 plt.grid(axis='y')
 plt.show()
-
 print("Analysis Complete: Sales trends, best-selling products, and seasonal demand analyzed.")
