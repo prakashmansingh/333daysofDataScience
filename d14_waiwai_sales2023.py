@@ -1,10 +1,8 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Load the data
 df = pd.read_csv("wai_wai_sales_nepal.csv", parse_dates=["Date"])
 
-# Display basic info
 print(df.head())
 print("\nData Summary:")
 print(df.describe())
