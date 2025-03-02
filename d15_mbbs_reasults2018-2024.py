@@ -34,5 +34,5 @@ subject_scores.plot(kind='bar', color=['red' if subj == lowest_score_subject els
 plt.xlabel('Subjects')
 plt.ylabel('Average Score')
 plt.title('Average Scores by Subject')
-plt.xticks(rotation=45)
+plt.xticks(rotation=45)in 
 plt.show()
