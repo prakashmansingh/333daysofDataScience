@@ -1,6 +1,7 @@
+
 ##  Before I Dive: Exploring Data Science Fundamentals  
 
-Before diving deep into **Data Science**, I explored some essential **fundamentals** to build a strong foundation. This repository contains my learning resources, code snippets, and projects related to Python, NumPy, and Pandas.  
+Before diving deep into **Data Science**, I explored some essential **fundamentals** to build a strong foundation. This repository contains my learning resources, code snippets, and projects related to Python, NumPy, Pandas, and Matplotlib.  
 
 ---
 
@@ -8,7 +9,7 @@ Before diving deep into **Data Science**, I explored some essential **fundamenta
 - [Python](#python)  
 - [NumPy](#numpy)  
 - [Pandas](#pandas)  
-
+- [Matplotlib](#matplotlib)  
 
 ---
 
@@ -35,5 +36,12 @@ Before diving deep into **Data Science**, I explored some essential **fundamenta
 - [Official Pandas Documentation](https://pandas.pydata.org/docs/user_guide/index.html)  
 - [Datacamp: Data Manipulation with Pandas](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)  
 
+---
 
-  
+##  Matplotlib  
+🔍 **Exploration:**  
+- [Datacamp: Introduction to Data Visualization with Matplotlib](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)  
+
+📚 **Resources:**  
+- [Official Matplotlib Documentation](https://matplotlib.org)  
+
