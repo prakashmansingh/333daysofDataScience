@@ -45,3 +45,7 @@ Before diving deep into **Data Science**, I explored some essential **fundamenta
 📚 **Resources:**  
 - [Official Matplotlib Documentation](https://matplotlib.org)  
 
+## Seaborn 
+
+**Resources:**
+- [Official Seaborn Documentation]( https://seaborn.pydata.org/)
