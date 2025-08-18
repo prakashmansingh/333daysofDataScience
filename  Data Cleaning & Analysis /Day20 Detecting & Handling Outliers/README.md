@@ -28,6 +28,6 @@ Outliers can significantly affect **statistical analysis** and **machine learnin
 - Ensures better **generalization** of ML models.  
 
 ---
-![image ](images/encoding_output.png)
+
 
 
