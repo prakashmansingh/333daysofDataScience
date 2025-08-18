@@ -33,3 +33,4 @@ It creates **binary columns (0/1)** for each category in a column.
 - Avoid for ordinal data (e.g., `Small < Medium < Large`), where Label Encoding is better.  
 
 
+![Encoding Output](diff.png)
