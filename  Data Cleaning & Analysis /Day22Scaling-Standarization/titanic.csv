@@ -1,0 +1,11 @@
+PassengerId,Name,Age,Fare,Survived
+1,Allen,22,7.25,0
+2,Brown,38,71.83,1
+3,Clark,26,8.05,1
+4,Davis,35,53.1,1
+5,Evans,54,51.86,0
+6,Frank,2,21.07,0
+7,Green,27,11.13,1
+8,Hill,14,30.07,0
+9,Irwin,4,16.7,1
+10,Jones,58,26.55,0
