@@ -1,6 +1,6 @@
 
 
-##  🚀 Day 21/333 Standardization in Data Preprocessing
+##  🚀 Day 22/333 Standardization in Data Preprocessing
 
 **Objective:**  
 Learn how to scale numerical features using **Standardization (Z-score Scaling)** to ensure fair contribution of all features in machine learning models.
