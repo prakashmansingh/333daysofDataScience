@@ -1,9 +1,5 @@
 # 🌟 Day 27/333 – Percentiles, Quartiles & Outlier Detection  
 
-
----
-
-  
 - **Percentiles**: Values that indicate the relative standing of data points in a dataset (e.g., 25th percentile means 25% of data is below this value).  
 - **Quartiles**: Special percentiles that divide the data into four equal parts:  
   - **Q1** = 25th percentile  
